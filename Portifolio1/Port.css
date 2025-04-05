@@ -62,9 +62,10 @@ a:hover {
     text-align: center; 
     padding: 20px; 
     position: relative; 
-    bottom: 0; /
+    bottom: 0;
     width: 100%; 
     row-gap: 15px;
+    position: fixed;
 }
 .eu{
     text-align: center;
